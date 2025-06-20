@@ -1,68 +1,60 @@
-<h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
-<h3 align="center">A Computer Science and Data Science student passionate about building real-world solutions with code.</h3>
+# 👋 Hi, I'm Nitesh Yadav
+
+🎓 **Computer Science Undergraduate** | 📊 **Data Science Dual Degree (IIT Madras)**  
+📍 Alwar, Rajasthan, India  
+📧 niteshyadav0604@gmail.com | 📞 +91 8302258146  
+[🔗 LinkedIn](http://www.linkedin.com/in/nitesh-yadav-48567b217) | [🌐 GitHub](https://github.com/Nitesh-Yadavv)
 
 ---
 
-🌍 **Location:** Alwar, Rajasthan, India  
-🎓 **B.Tech - Computer Science, RTU Kota** (CGPA: 9.49)  
-📘 **BS - Data Science & Programming, IIT Madras**  
-📫 **Email:** niteshyadav0604@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-yadav-48567b217) | [GitHub](https://github.com/Nitesh-Yadavv)
+## 🧠 About Me
+
+I'm a passionate developer and data enthusiast currently pursuing a dual-degree in **Computer Science (RTU Kota)** and **Data Science (IIT Madras)**. I enjoy solving problems with code, exploring data-driven solutions, and building real-world applications using Python and Java.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Skills
 
-- **Languages:** `Python`, `Java`
-- **Web:** `HTML`, `CSS`, `JavaScript`, `React.js`
-- **Database:** `PostgreSQL`
-- **Tools & Frameworks:** `Tkinter`, `MoviePy`, `Git`, `GitHub`
-- **CS Fundamentals:** `DSA`, `OOP`, `Operating Systems`, `DBMS`
-
----
-
-### 🧠 Recent Projects
-
-🚀 **[GUI Video Editor](https://github.com/Nitesh-Yadavv/Python-Projects/blob/main/Videoeditor.py)**  
-🎬 A Tkinter-based Python video editor with mute, trim, and merge functionality using MoviePy.
-
-🖼️ **[Auto Photo Transfer from USB](https://github.com/Nitesh-Yadavv/Python-Projects/blob/main/auto_photo_transfer.py)**  
-📤 Detects USB devices, filters photos using EXIF metadata, and transfers them automatically.
-
-📁 **[Image Segregator](https://github.com/Nitesh-Yadavv/Python-Projects/blob/main/img-date-segregator.py)**  
-📅 Organizes images based on timestamps with a GUI built in Tkinter.
-
-📦 **[Inventory Management System](https://github.com/Nitesh-Yadavv/Inventory-Management-System-/blob/main/Inventory_mang.java)**  
-📋 Java Swing desktop app to manage stock, update items, and view records efficiently.
+- **Languages:** Python, Java  
+- **Web Dev:** HTML, CSS, JavaScript, React.js  
+- **Databases:** PostgreSQL  
+- **Tools & Frameworks:** Git, GitHub, Tkinter, MoviePy  
+- **Core CS:** Data Structures, Algorithms, OOP, OS, DBMS
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Soft Skills:** Communication, Critical Thinking, Adaptability
 
 ---
 
-### 💼 Internships
+## 💼 Work Experience
 
-🔹 **Data Science Intern** – *Celebal Technologies*  
-→ Built anomaly detection tools for network traffic using Isolation Forests and Autoencoders.
+**🔹 Data Science Intern — Celebal Technologies (May 2025 – July 2025)**  
+• Built anomaly detection systems on network traffic using Isolation Forests and Autoencoders. 
 
-🔹 **Python Developer Intern** – *Endearing Design Studio*  
-→ Developed automation tools using Python & GUI for efficient media file handling.
-
----
-
-### 🌱 Currently Exploring
-
-- Machine Learning & Model Deployment  
-- Full-Stack Development with React  
-- Real-world data projects (ML & automation)
+**🔹 Python Developer Intern — Endearing Design Studio (May 2024 – July 2024)**  
+• Created automation tools using Tkinter and MoviePy.  
+• Developed USB-based photo transfer script based on metadata.
 
 ---
 
-### 📣 Let's Connect!
+## 🚀 Projects
 
-If you’re interested in collaboration, internships, or chatting tech—  
-📬 **Drop me a message:** [niteshyadav0604@gmail.com](mailto:niteshyadav0604@gmail.com)
+- 🎬 [**GUI-Based Video Editor**](https://github.com/Nitesh-Yadavv/Python-Projects/blob/main/Videoeditor.py) — Built using Python, Tkinter & MoviePy  
+- 🖼️ [**Automatic Photo Transfer from USB**](https://github.com/Nitesh-Yadavv/Python-Projects/blob/main/auto_photo_transfer.py) — Automates EXIF-based photo transfers  
+- 📁 [**Image Segregation Tool**](https://github.com/Nitesh-Yadavv/Python-Projects/blob/main/img-date-segregator.py) — Filters images based on timestamps  
+- 📦 [**Inventory Management System (Java)**](https://github.com/Nitesh-Yadavv/Inventory-Management-System-/blob/main/Inventory_mang.java) — GUI-based app for stock management
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Yadavv&show_icons=true&theme=react&hide_title=true" alt="Nitesh Yadav's GitHub stats" />
-</p>
+## 🌱 I'm Currently Learning
+- Machine Learning Algorithms  
+- Advanced SQL & Data Engineering Tools  
+- React.js for full-stack projects
 
+---
+
+## 📢 Let's Connect!
+
+Feel free to reach out for collaboration, internships, or just to say hi!  
+📩 [niteshyadav0604@gmail.com](mailto:niteshyadav0604@gmail.com)
+
+---
