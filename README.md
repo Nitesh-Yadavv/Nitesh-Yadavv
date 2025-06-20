@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Nitesh Yadav
 
-🎓 **Computer Science Undergraduate** | 📊 **Data Science Dual Degree (IIT Madras)**  
+🎓 **B.Tech - Computer Science, RTU Kota** (CGPA: 9.49)  
+📘 **BS - Data Science & Programming, IIT Madras**   
 📍 Alwar, Rajasthan, India  
 📧 niteshyadav0604@gmail.com | 📞 +91 8302258146  
 [🔗 LinkedIn](http://www.linkedin.com/in/nitesh-yadav-48567b217) | [🌐 GitHub](https://github.com/Nitesh-Yadavv)
